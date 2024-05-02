@@ -30,12 +30,12 @@ html *::-webkit-scrollbar-track {
   background-color: rgba(0, 0, 0, 0);
 }
 
-button,
+/* button,
 input,
 [tabindex] {
   outline: none;
   border: none;
-}
+} */
 
 
 
